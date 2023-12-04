@@ -6,3 +6,5 @@
 ### 说明文档
 
 > [`https://gophercron.ojbk.io/`](https://gophercron.ojbk.io/)
+
+<img src="https://gophercron.ojbk.io/dashboard.jpeg" alt="gophercron" width="100%" border=0/> 
